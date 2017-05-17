@@ -48,7 +48,7 @@
     
     
     /*自定义刮奖view*/
-    
+    //原始分支
     //自定义view
     UIView *customView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 225, 110)];
     customView.backgroundColor = [UIColor greenColor];
